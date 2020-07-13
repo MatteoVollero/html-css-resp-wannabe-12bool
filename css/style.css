@@ -3,11 +3,31 @@
   margin-top: 100px;
 }
 
+/* .col-xs-1{
+  width: 100%;
+} */
+
 .col-lg-8{
   margin-left: calc((100% / 12) * 2);
   margin-right: calc((100% / 12) * 2);
   border-bottom: 2px solid black;
+}
 
+.col-md-8{
+  margin-left: calc((100% / 12) * 2);
+  margin-right: calc((100% / 12) * 2);
+  border-bottom: 2px solid black;
+}
+
+.col-xs-8{
+  margin-left: calc((100% / 12) * 2);
+  margin-right: calc((100% / 12) * 2);
+  border-bottom: 2px solid black;
+}
+
+.col-xs-8 img{
+  height: 50px;
+  font-size: 13px;
 }
 
 img{
