@@ -11,6 +11,11 @@
   margin: calc(100%/12 * 1);
 }
 
+.col-md-10{
+  margin-left: calc((100%/12) * 1);
+  margin-right: calc((100%/12) * 1);
+}
+
 .col-lg-8{
   margin-left: calc((100% / 12) * 2);
   margin-right: calc((100% / 12) * 2);
